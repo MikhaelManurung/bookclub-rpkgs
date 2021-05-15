@@ -1,7 +1,7 @@
 ---
-title: "R Packages"
-subtitle: "Introduction"
-author: "Jon Harmon"
+title: "R Packages - Cohort 2"
+subtitle: "Introduction & The Whole Game"
+author: "Mikhael Manurung (but actually 99% Jon)"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -49,7 +49,7 @@ style_mono_light(
 
 - devtools: Meta-meta-package that loads all the tidyverse team metapackages.
 - usethis: Go through the function list on this to make your life easier.
-- goodpractice: Not mentioned in the book but I find it super helpful for catching all the things.
+- goodpractice: Not mentioned in the book but Jon find it super helpful for catching all the things.
 - styler: Enforce style so you don't have to.
 
 ---
@@ -73,6 +73,8 @@ style_mono_light(
 
 --
 **This may all go away as we work 'cuz the book may change!**
+
+**PS: It hasn't**
 
 ---
 
